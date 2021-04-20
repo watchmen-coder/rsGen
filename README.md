@@ -40,7 +40,7 @@
 
    Bitcoin Address QR Code            |  Ethereum Address QR Code         |  Monero Address QR Code         |  DOGECOIN Address QR Code
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img width="220" height="220" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-btc.png"/>  |  <img width="220" height="220" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-eth.png"/> | <img width="220" height="220" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-xmr.png"/> | <img width="220" height="220" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-doge.png"/>
+<img width="200" height="200" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-btc.png"/>  |  <img width="200" height="200" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-eth.png"/> | <img width="200" height="200" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-xmr.png"/> | <img width="200" height="200" src="https://raw.githubusercontent.com/FlyfishSec/rsGen/master/Screenshot/donate-doge.png"/>
 
 **BTC**: 3F2R6KMXbJ576yJNJpjrBnhVG64Ltg1WoF
 
